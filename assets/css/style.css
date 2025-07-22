@@ -17,6 +17,11 @@ h2 {
     color: #184f63;
 }
 
+.sharps,
+.sharps * {
+    border-radius: 0;
+}
+
 #about {
     background-color: white;
     ;
