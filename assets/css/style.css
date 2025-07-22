@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Poppins&display=swap');
+
+#hero {
+    background: #dbdcde url('../images/background.webp') 50% 70% / cover;
+    min-height: 500px;
+    padding: 5% 7%;
+}
+
+body {
+    font-family: "Poppins", sans-serif;
+    background-color: #a4c2d1;
+}
+
+h1,
+h2 {
+    font-family: "DM Serif Display", serif;
+    color: #184f63;
+}
+
+#about {
+    background-color: white;
+    ;
+}
+
+#portfolio {
+    background-color: #dbdcde;
+}
+
+#contact {
+    background-color: white;
+}
